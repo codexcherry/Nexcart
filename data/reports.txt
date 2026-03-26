@@ -1,0 +1,14 @@
+=== NexCart Analytics Report ===
+Generated: 2026-03-26 20:50:09
+
+Total Revenue: ₹130,195.00
+
+Top Selling Products:
+  1. Realme GT 7 — 1 units sold
+
+Trending Products:
+  1. Realme GT 7 — 1 views, 1 cart adds
+
+Most Active Users:
+  1. Nithin (Admin) (nithin@gmail.com) — 3 orders, ₹90,196.00 spent
+  2. Chari (Nithin@gmail.com) — 1 orders, ₹39,999.00 spent
