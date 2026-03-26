@@ -22,7 +22,7 @@ A modern e-commerce platform built with Streamlit and SQLite, featuring a clean 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/nexcart.git
+https://github.com/codexcherry/Nexcart.git
 cd nexcart
 ```
 
@@ -95,17 +95,6 @@ nexcart/
 3. Manage products (add, edit, delete)
 4. View and manage orders
 5. Access analytics and reports
-
-## 🧪 Testing
-
-Run the test suite:
-```bash
-pytest tests/
-```
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
